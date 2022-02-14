@@ -17,3 +17,10 @@ Additional plots can be found here:
 Additional results for all methods can be found here:
 
 [results.md](results.md)
+
+## Active Learning API
+
+The following picture lists the endpoint of our API:
+
+![screenshots/fastapi.png](screenshots/fastapi.png)
+
