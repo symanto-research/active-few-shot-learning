@@ -24,4 +24,3 @@
 | LT kmeans margin    | 61.4 +/- 4.5     | 87.1 +/- 0.9     | 74.3     |
 | LR random           | 61.8 +/- 4.6     | 85.2 +/- 1.9     | 73.5     |
 | LT KNN'             | 62.0 +/- 4.2     | 84.7 +/- 1.1     | 73.4     |
-| LT hagg-single      | nan              | nan              | nan      |
