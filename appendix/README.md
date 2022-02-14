@@ -10,10 +10,10 @@ Label description (also called hypotheses) used for various datasets can be foun
 
 Additional plots can be found here:
 
-[plots](plots.md)
+[plots.md](plots.md)
 
 ## Additional Results
 
 Additional results for all methods can be found here:
 
-[results](results.md)
+[results.md](results.md)
