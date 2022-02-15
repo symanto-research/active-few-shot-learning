@@ -22,7 +22,7 @@ Additional results for all methods can be found here:
 
 Additiona plots showing how the unsupervised metrics perform on different datasets:
 
-[metric_plots.md](metric_plots)
+[metric_plots.md](metric_plots.md)
 
 ## Active Learning API
 
