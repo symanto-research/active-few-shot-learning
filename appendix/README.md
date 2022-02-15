@@ -18,9 +18,15 @@ Additional results for all methods can be found here:
 
 [results.md](results.md)
 
+## Additional Meric Plots
+
+Additiona plots showing how the unsupervised metrics perform on different datasets:
+
+[metric_plots.md](metric_plots)
+
 ## Active Learning API
 
-The following picture lists the endpoint of our API:
+The following figure shows the endpoints the API:
 
 ![screenshots/fastapi.png](screenshots/fastapi.png)
 
