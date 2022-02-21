@@ -1,5 +1,5 @@
 ## Additional Results
 
-* [default](tables/results_default.md)
+* [generic](tables/results_generic.md)
 * [ub](tables/results_ub.md)
-* [offensive](tables/results_offensive.md)
+* [offense](tables/results_offense.md)

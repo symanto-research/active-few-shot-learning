@@ -12,4 +12,8 @@
 
 ![train_metrics_es](plots/metrics/train_metrics_es.png)
 
+## train_metrics_offense
+
+![train_metrics_offense](plots/metrics/train_metrics_offense.png)
+
 
