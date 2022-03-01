@@ -29,10 +29,3 @@ Additiona plots showing how the unsupervised metrics perform on different datase
 Additiona plots on the prediction of the test F1:
 
 [f1_prediction.md](f1_prediction.md)
-
-## Active Learning API
-
-The following figure shows the endpoints the API:
-
-![screenshots/fastapi.png](screenshots/fastapi.png)
-
