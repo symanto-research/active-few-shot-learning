@@ -1,10 +1,10 @@
-## Active Learning API
+# REST API
 
 The following figure shows the endpoints the API:
 
 ![screenshots/fastapi.png](screenshots/fastapi.png)
 
-## UI
+# UI
 
 The UI is implemented in [streamlit](https://streamlit.io/).
 
@@ -31,7 +31,7 @@ The user can select an Active Learning method and the number of instances to ret
 ## Update Model
 
 Once the instances are retrieved they are annotated by the user.
-A click on "update" trigger a re-training of the model.
+"update" triggers model re-training.
 
 ![screenshots/ui_update_model.png](screenshots/ui_update_model.png)
 

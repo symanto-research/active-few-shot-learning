@@ -29,3 +29,7 @@ Additiona plots showing how the unsupervised metrics perform on different datase
 Additiona plots on the prediction of the test F1:
 
 [f1_prediction.md](f1_prediction.md)
+
+## Platform and User Interface
+
+[user_interface.md](user_interface.md)
