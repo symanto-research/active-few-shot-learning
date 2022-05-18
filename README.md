@@ -1,5 +1,5 @@
 # active-few-shot-learning
-Code and additional documentation for the paper.
+Code and additional documentation for the NLDB 2020 [paper](https://arxiv.org/abs/2204.09347).
 
 ## Appendix
 
